@@ -9,7 +9,8 @@ and get monitor(person who is responsible for certain block). Also student can p
   2) Second group is commandant. Login - comend, password - qwerty. This user can do everything connected with dormitory: settle down or settle out student, look through information about certain student, block, room, change monitors of the block, print report and sent it via email. 
   3) Third - administrator. Login - admin, password - 12345. This user can add new block to the dormitory.
   
-Поселення студентів у гуртожиток. 
+Поселення студентів у гуртожиток.
+==============================================================================================================================
 Використав: Java, MySQL, Design patterns, Swing
 
 Є декілька юзерів. 
