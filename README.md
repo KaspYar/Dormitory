@@ -7,8 +7,8 @@ There are three group of users:
   1) First category is student. Login - surname of settled student. Password - 11111. Here user have personal cabinet, where he/she can get know the adress of the dormitory, number of his room, capacity of his room, amount of students who alrdeady settled
 and get monitor(person who is responsible for certain block). Also student can print this information.
   2) Second group is commandant. Login - comend, password - qwerty. This user can do everything connected with dormitory: settle down or settle out student, look through information about certain student, block, room, change monitors of the block, print report and sent it via email. 
-  3) Thirs - administrator. Login - admin, password - 12345. This user can add new block to the dormitory.
-==============================================================================================================================
+  3) Third - administrator. Login - admin, password - 12345. This user can add new block to the dormitory.
+----------------------------------------------------------------------------------------------------------------------------
 
 Поселення студентів у гуртожиток. 
 Використав: Java, MySQL, Design patterns, Swing
